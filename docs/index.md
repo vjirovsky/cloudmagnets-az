@@ -20,7 +20,7 @@
 
 Do you draw a cloud architecture diagrams on whiteboard and are you lousy painter as me? 
 
-I wanted to speed up my work and make it more readable - so I have designed my custom magnets of mostly used Azure services and printed on 3D printer. Now, when you design cloud architecture on whiteboard, it's easier and nobody complains about my painting skill.
+I wanted to speed up my work and make it more readable - so I have designed my custom magnets of mostly used Azure services and printed on 3D printer. Now, when you design architecture diagram on a whiteboard, it's easier and nobody complains about my painting skill.
 
 All models are in STL format, ready to be printed with multi-material 3D printer (like *Prusa MMU2S*) - originally designed in OpenSCAD.
 
@@ -36,6 +36,7 @@ In `_print_exports/` folder are optimized ready-to print `.3mf` projects.
 <img src="images/usage/printing-2.jpg" width="400"/>
 <img src="images/usage/printing-5.jpg" width="400"/>
 <img src="images/usage/printing-4.jpg" width="400"/>
+<img src="images/usage/printing-6.jpg" width="400"/>
 
 ## Available icons
 
