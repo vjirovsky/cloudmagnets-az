@@ -1,7 +1,22 @@
+<img src="images/icons/Analytics/10787-icon-service-Azure-Databricks.scad.png" width="200"/>
+<img src="images/icons/Compute/10021-icon-service-Virtual-Machine.scad.png" width="200"/>
+<img src="images/icons/Compute/10029-icon-service-Function-Apps.scad.png" width="200"/>
+<img src="images/icons/Compute/10035-icon-service-App-Services.scad.png" width="200"/>
+<img src="images/icons/Databases/02390-icon-service-Azure-SQL.scad.png" width="200"/>
+<img src="images/icons/Databases/10121-icon-service-Azure-Cosmos-DB.scad.png" width="200"/>
+<img src="images/icons/Databases/10126-icon-service-Data-Factory.scad.png" width="200"/>
+<img src="images/icons/Databases/10137-icon-service-Cache-Redis.scad.png" width="200"/>
+<img src="images/icons/General/10002-icon-service-Subscriptions.scad.png" width="200"/>
+<img src="images/icons/General/resourcegroup.scad.png" width="200"/>
+<img src="images/icons/Identity/10221-icon-service-Azure-Active-Directory.scad.png" width="200"/>
+<img src="images/icons/IoT/00039-icon-service-Event-Hubs.scad.png" width="200"/>
+<img src="images/icons/IoT/10201-icon-service-Logic-Apps.scad.png" width="200"/>
+<img src="images/icons/Management-n-Governance/00012-icon-service-Application-Insights.scad.png" width="200"/>
+<img src="images/icons/Networking/00056-icon-service-CDN-Profiles.scad.png" width="200"/>
+<img src="images/icons/Networking/00427-icon-service-Private-Link.scad.png" width="200"/>
+<img src="images/icons/Networking/10061-icon-service-Virtual-Networks.scad.png" width="200"/>
+<img src="images/icons/Networking/10062-icon-service-Load-Balancers.scad.png" width="200"/>
+<img src="images/icons/Networking/10073-icon-service-Front-Doors.scad.png" width="200"/>
+<img src="images/icons/Networking/10076-icon-service-Application-Gateways.scad.png" width="200"/>
+<img src="images/icons/Security/10245-icon-service-Key-Vaults.scad.png" width="200"/>
 
-First Header | Second Header
------------- | -------------
-Resource Group |  <img src="images/icons/General/resourcegroup.scad.png" alt="drawing" width="200"/>
-Subscription |  <img src="images/icons/General/10002-icon-service-Subscriptions.scad.png" alt="drawing" width="200"/>
-Cosmos DB |  <img src="images/icons/Databases/10121-icon-service-Azure-Cosmos-DB.scad.png" alt="drawing" width="200"/>
-Key Vault |  <img src="images/icons/Security/10245-icon-service-Key-Vaults.scad.png" alt="drawing" width="200"/>
