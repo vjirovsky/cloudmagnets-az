@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/vjirovsky/cloudmagnets-az/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+First Header | Second Header
+------------ | -------------
+Resource Group |  <img src="../General/resourcegroup.scad.png" alt="drawing" width="200"/>
+Cosmos DB |  <img src="../Databases/10121-icon-service-Azure-Cosmos-DB.scad.png" alt="drawing" width="200"/>
+Key Vault |  <img src="../Security/10245-icon-service-Key-Vaults.scad.png" alt="drawing" width="200"/>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -24,6 +33,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
