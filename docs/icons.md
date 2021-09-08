@@ -18,5 +18,7 @@
 <img src="images/icons/Networking/10062-icon-service-Load-Balancers.scad.png" width="200"/>
 <img src="images/icons/Networking/10073-icon-service-Front-Doors.scad.png" width="200"/>
 <img src="images/icons/Networking/10076-icon-service-Application-Gateways.scad.png" width="200"/>
+<img src="images/icons/Security/02247-icon-service-Azure-Defender.scad.png" width="200"/>
 <img src="images/icons/Security/10245-icon-service-Key-Vaults.scad.png" width="200"/>
+<img src="images/icons/Security/10248-icon-service-Azure-Sentinel.scad.png" width="200"/>
 
