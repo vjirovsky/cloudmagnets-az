@@ -8,7 +8,13 @@
 
 ## Azure Services Whiteboard Magnets
 
+
 ### Overview
+
+<img src="images/usage/printing-1.jpg" width="325"/>
+<img src="images/usage/printing-2.jpg" width="325"/>
+<img src="images/usage/printing-3.jpg" width="325"/>
+
 
 Do you draw a cloud architecture diagrams on whiteboard and are you lousy painter as me? I wanted to speed up my work and make it more readable - so I have designed my custom magnets of mostly used Azure services and printed on 3D printer.
 
@@ -18,16 +24,10 @@ All models requires maximum *5* colors at once. For my printing i used PLA mater
 
 In `_print_exports/` folder are optimized ready-to print `.3mf` projects.
 
-
 ### BOM
 - PLA filaments, the easiest icon requires *3* colors: *white, black, azure*
 - for every icon you need *2pcs* of neodymium magnets *5x2mm* ([Aliexpress link](https://www.aliexpress.com/item/1005002226582762.html?))
 - glue
-
-### Photos
-<img src="images/usage/printing-1.jpg" width="450"/>
-<img src="images/usage/printing-2.jpg" width="450"/>
-<img src="images/usage/printing-3.jpg" width="450"/>
 
 ### Available icons
 
