@@ -8,7 +8,7 @@ All models are in STL format, ready to be printed with multi-material 3D printer
 
 All models requires maximum *5* colors at once. For my printing i used PLA material, but also ABS test looked pretty good.
 
-In `_print_exports/` folder there are ready `.3mf` optimized projects to be printed.
+In `_print_exports/` folder are optimized ready-to print `.3mf` projects.
 
 
 ### BOM
