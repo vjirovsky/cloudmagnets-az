@@ -18,9 +18,9 @@
 <img src="images/usage/printing-1.jpg" width="250"/><img src="images/usage/printing-3.jpg" width="250"/><br><br>
 
 
-Do you draw a cloud architecture diagrams on whiteboard and are you lousy painter as me? 
+Do you draw a cloud architecture diagram on a whiteboard and are you a lousy painter as me? 
 
-I wanted to speed up my work and make it more readable - so I have designed my custom magnets of mostly used Azure services and printed on 3D printer. Now, when you design architecture diagram on a whiteboard, it's easier and nobody complains about my painting skill.
+I wanted to speed up my work and make it more readable - so I have designed my custom magnets of mostly used Azure services and printed them on a 3D printer. Now, when you design an architecture diagram on a whiteboard, it's easier and nobody complains about my painting skill.
 
 All models are in STL format, ready to be printed with multi-material 3D printer (like *Prusa MMU2S*) - originally designed in OpenSCAD.
 
