@@ -7,9 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 First Header | Second Header
 ------------ | -------------
-Resource Group |  <img src="../General/resourcegroup.scad.png" alt="drawing" width="200"/>
-Cosmos DB |  <img src="../Databases/10121-icon-service-Azure-Cosmos-DB.scad.png" alt="drawing" width="200"/>
-Key Vault |  <img src="../Security/10245-icon-service-Key-Vaults.scad.png" alt="drawing" width="200"/>
+Resource Group |  <img src="images/icons/General/resourcegroup.scad.png" alt="drawing" width="200"/>
+Subscription |  <img src="images/icons/General/10002-icon-service-Subscriptions.scad.png" alt="drawing" width="200"/>
+Cosmos DB |  <img src="images/icons/Databases/10121-icon-service-Azure-Cosmos-DB.scad.png" alt="drawing" width="200"/>
+Key Vault |  <img src="images/icons/Security/10245-icon-service-Key-Vaults.scad.png" alt="drawing" width="200"/>
 
 
 
@@ -19,28 +20,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vjirovsky/cloudmagnets-az/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
