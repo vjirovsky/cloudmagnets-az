@@ -1,7 +1,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@vjirovsky">
 <meta name="twitter:creator" content="@vjirovsky">
-<meta name="twitter:title" content="Azure Services Whiteboard Magnets">
 <meta name="twitter:description" content="3D models for Azure cloud services to be printed as magnet for whiteboards">
 <meta name="twitter:image" content="https://vjirovsky.github.io/cloudmagnets-az/images/usage/social.png">
 
