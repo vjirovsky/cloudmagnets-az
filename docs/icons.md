@@ -7,6 +7,7 @@
 <img src="images/icons/Databases/10126-icon-service-Data-Factory.scad.png" width="200"/>
 <img src="images/icons/Databases/10137-icon-service-Cache-Redis.scad.png" width="200"/>
 <img src="images/icons/General/10002-icon-service-Subscriptions.scad.png" width="200"/>
+<img src="images/icons/General/10011-icon-service-Management-Groups.scad.png" width="200"/>
 <img src="images/icons/General/resourcegroup.scad.png" width="200"/>
 <img src="images/icons/Identity/10221-icon-service-Azure-Active-Directory.scad.png" width="200"/>
 <img src="images/icons/IoT/00039-icon-service-Event-Hubs.scad.png" width="200"/>
