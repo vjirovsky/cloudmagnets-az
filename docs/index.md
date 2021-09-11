@@ -18,13 +18,18 @@
 <img src="images/usage/printing-1.jpg" width="250"/><img src="images/usage/printing-3.jpg" width="250"/><br><br>
 
 
-Do you draw a cloud architecture diagram on a whiteboard and are you a lousy painter as me? 
+Do you draw a cloud architecture diagrams on a whiteboard and are you a lousy painter as me?
 
 I wanted to speed up my work and make it more readable - so I have designed my custom magnets of mostly used Azure services and printed them on a 3D printer. Now, when you design an architecture diagram on a whiteboard, it's easier and nobody complains about my painting skill.
 
 All models are in STL format, ready to be printed with multi-material 3D printer (like *Prusa MMU2S*) - originally designed in OpenSCAD.
 
 In `_print_exports/` folder are optimized ready-to print `.3mf` projects.
+
+
+<div style="margin-top: 20px;margin-bottom: 20px;color: #084298;background-color: #cfe2ff;border-color: #b6d4fe;position: relative;padding: 1rem 1rem;margin-bottom: 1rem;border: 1px solid transparent;border-radius: .25rem;">
+Do you prefer AWS over Azure? No problem, <a href="https://vjirovsky.github.io/cloudmagnets-aws/">check out the AWS version</a>.
+</div>
 
 ## BOM
 - PLA filaments, the easiest icon requires *3* colors: *white, black, azure*
