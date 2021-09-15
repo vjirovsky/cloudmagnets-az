@@ -2,7 +2,6 @@
 <meta name="twitter:site" content="@vjirovsky">
 <meta name="twitter:creator" content="@vjirovsky">
 <meta name="twitter:description" content="3D models for Azure cloud services to be printed as magnet for whiteboards">
-<meta name="twitter:image" content="https://vjirovsky.github.io/cloudmagnets-az/images/usage/social.png">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6QMDBNF7E8"></script>
 <script>
