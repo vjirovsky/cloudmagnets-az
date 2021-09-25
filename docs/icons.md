@@ -10,6 +10,7 @@
 <img src="images/icons/General/10011-icon-service-Management-Groups.scad.png" width="200"/>
 <img src="images/icons/General/resourcegroup.scad.png" width="200"/>
 <img src="images/icons/Identity/10221-icon-service-Azure-Active-Directory.scad.png" width="200"/>
+<img src="images/icons/Identity/10227-icon-service-Managed-Identities.scad.png" width="200"/>
 <img src="images/icons/IoT/00039-icon-service-Event-Hubs.scad.png" width="200"/>
 <img src="images/icons/IoT/10201-icon-service-Logic-Apps.scad.png" width="200"/>
 <img src="images/icons/Management-n-Governance/00012-icon-service-Application-Insights.scad.png" width="200"/>
