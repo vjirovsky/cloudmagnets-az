@@ -18,6 +18,7 @@
 <img src="images/icons/Networking/00427-icon-service-Private-Link.scad.png" width="200"/>
 <img src="images/icons/Networking/10061-icon-service-Virtual-Networks.scad.png" width="200"/>
 <img src="images/icons/Networking/10062-icon-service-Load-Balancers.scad.png" width="200"/>
+<img src="images/icons/Networking/10065-icon-service-Traffic-Manager-Profiles.scad.png" width="200"/>
 <img src="images/icons/Networking/10073-icon-service-Front-Doors.scad.png" width="200"/>
 <img src="images/icons/Networking/10076-icon-service-Application-Gateways.scad.png" width="200"/>
 <img src="images/icons/Security/02247-icon-service-Azure-Defender.scad.png" width="200"/>
