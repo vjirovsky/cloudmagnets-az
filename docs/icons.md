@@ -1,5 +1,6 @@
 <img src="images/icons/Analytics/10787-icon-service-Azure-Databricks.scad.png" width="200"/>
 <img src="images/icons/Compute/10021-icon-service-Virtual-Machine.scad.png" width="200"/>
+<img src="images/icons/Compute/10023-icon-service-Kubernetes-Services.scad.png" width="200"/>
 <img src="images/icons/Compute/10029-icon-service-Function-Apps.scad.png" width="200"/>
 <img src="images/icons/Compute/10035-icon-service-App-Services.scad.png" width="200"/>
 <img src="images/icons/Databases/02390-icon-service-Azure-SQL.scad.png" width="200"/>
