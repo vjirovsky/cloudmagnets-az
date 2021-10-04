@@ -14,6 +14,8 @@
 <img src="images/icons/Identity/10225-icon-service-Enterprise-Applications.scad.png" width="200"/>
 <img src="images/icons/Identity/10227-icon-service-Managed-Identities.scad.png" width="200"/>
 <img src="images/icons/IoT/00039-icon-service-Event-Hubs.scad.png" width="200"/>
+<img src="images/icons/IoT/10182-icon-service-IoT-Hub.scad.png" width="200"/>
+<img src="images/icons/IoT/10186-icon-service-IoT-Edge.scad.png" width="200"/>
 <img src="images/icons/IoT/10201-icon-service-Logic-Apps.scad.png" width="200"/>
 <img src="images/icons/Management-n-Governance/00012-icon-service-Application-Insights.scad.png" width="200"/>
 <img src="images/icons/Networking/00056-icon-service-CDN-Profiles.scad.png" width="200"/>
