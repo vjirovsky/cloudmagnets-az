@@ -31,4 +31,5 @@
 <img src="images/icons/Security/02247-icon-service-Azure-Defender.scad.png" width="200"/>
 <img src="images/icons/Security/10245-icon-service-Key-Vaults.scad.png" width="200"/>
 <img src="images/icons/Security/10248-icon-service-Azure-Sentinel.scad.png" width="200"/>
+<img src="images/icons/Storage/10087-icon-service-Storage-Accounts.scad.png" width="200"/>
 
