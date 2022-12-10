@@ -10,7 +10,7 @@
 <img src="images/icons/Databases/10137-icon-service-Cache-Redis.scad.png" width="200"/>
 <img src="images/icons/General/10002-icon-service-Subscriptions.scad.png" width="200"/>
 <img src="images/icons/General/10011-icon-service-Management-Groups.scad.png" width="200"/>
-<img src="images/icons/General/10836-icon-service-Service-Bus.scad.png" width="200"/>
+<img src="images/icons/General/logo_microsoft_azureservicebus.scad.png" width="200"/>
 <img src="images/icons/General/resourcegroup.scad.png" width="200"/>
 <img src="images/icons/Identity/10221-icon-service-Azure-Active-Directory.scad.png" width="200"/>
 <img src="images/icons/Identity/10225-icon-service-Enterprise-Applications.scad.png" width="200"/>
