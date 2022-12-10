@@ -3,6 +3,7 @@
 <img src="images/icons/Compute/10023-icon-service-Kubernetes-Services.scad.png" width="200"/>
 <img src="images/icons/Compute/10029-icon-service-Function-Apps.scad.png" width="200"/>
 <img src="images/icons/Compute/10035-icon-service-App-Services.scad.png" width="200"/>
+<img src="images/icons/Containers/02884-icon-service-Worker-Container-App.scad.png" width="200"/>
 <img src="images/icons/Containers/10105-icon-service-Container-Registries.scad.png" width="200"/>
 <img src="images/icons/Databases/02390-icon-service-Azure-SQL.scad.png" width="200"/>
 <img src="images/icons/Databases/10121-icon-service-Azure-Cosmos-DB.scad.png" width="200"/>
